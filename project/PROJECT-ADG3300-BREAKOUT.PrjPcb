@@ -71,7 +71,11 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MSPQOKOY
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for PROJECT-ADG3300-BREAKOUT\Design Rule Check - ADG3300-BREAKOUT.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
